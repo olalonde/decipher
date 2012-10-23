@@ -1,6 +1,13 @@
+A curated list of code bases, categorized by language and difficulty
+level.
+
 # Work in progress!
 
-A curated list of code bases, categorized by language and difficulty
+# Intro
+
+Reading other people’s code is one of the surest way to improve your
+programming skills. Use this repo to browse other people's code. We've
+hand selected the best code out there and categorized them by difficulty
 level.
 
 # Table of contents
